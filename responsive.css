@@ -1,4 +1,4 @@
-@media only screen and(max-width:999px){
+@media only screen and (max-width:999px){
     
     .article-cent{
         text-align: center; 
@@ -12,7 +12,7 @@
      
 }
 
-@media only screen and(max-width:800px){
+@media only screen and (max-width:800px){
     
     .herobg h1{
         
@@ -34,14 +34,14 @@
 
 
 
-@media only screen and(max-width:500px){
+@media only screen and (max-width:500px){
     
     
     .about-text {
         
         margin-left: 0px;
         margin-right: 0px;
-        font-size: 1.1en;
+        font-size: 1.1em;
         
     }
     
