@@ -8,14 +8,15 @@
 */
 
 
-body{
+body {
     font-weight: 400;
-    font-size:16px;
-    font-family: 'Raleway', sans-serif;;
-    
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+    ;
+
 }
 
-.navbar{
+.navbar {
     font-size: 0.875em;
 }
 
@@ -27,39 +28,41 @@ body{
     background-color: white;
 }
 
-a{
+a {
     color: #a99c9c;
 }
 
-a:hover{
+a:hover {
     color: orange
 }
 
-.nav>li>a:focus, .nav>li>a:hover {
-    background-color: transparent; 
+.nav > li > a:focus,
+.nav > li > a:hover {
+    background-color: transparent;
 }
 
 .josh {
-    
+
     font-size: 2.0em;
-    
+
 }
+
 .orange {
-    
+
     color: orange;
-        font-size:2.0em;
-    
+    font-size: 2.0em;
+
 }
 
 .herobg {
-    
+
     background: url(http://206.189.45.97/~mesh22/sub1/wp-content/uploads/2021/03/header-bg-1.png);
     background-size: cover;
-    
+
 }
 
-.herobg h1{
-    
+.herobg h1 {
+
     font-family: 'Raleway', sans-serif;
     float: right;
     color: #ffff;
@@ -71,28 +74,27 @@ a:hover{
     margin-top: 140px;
     text-align: right;
     padding-bottom: 10%;
-    
-    
+
+
 }
 
-.aboutbg{
-    
+.aboutbg {
+
     background-color: whitesmoke
-    
 }
 
-.aboutbg h2{
-    
+.aboutbg h2 {
+
     font-family: 'Raleway', sans-serif;
     font-size: 2.4em;
     font-weight: 800;
-    
-    
-    
+
+
+
 }
 
-.particle{
-    
+.particle {
+
     text-align: right;
     margin-right: 150px;
     font-size: 1.5em;
@@ -102,87 +104,71 @@ a:hover{
     padding-bottom: 40px;
 }
 
-.about-text{
-    
+.about-text {
+
     margin-left: 40px;
     margin-right: 40px;
     font-size: 1.8em;
     line-height: 2em;
-     font-family: 'Raleway', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
-.blocker{
-    
+.blocker {
+
     width: 140px;
     height: 10px;
     background-color: purple;
     margin: auto;
     margin-bottom: 40px;
-    
+
 }
 
-.articlesbg{
-    
+.articlesbg {
+
     background-color: #f5f5f5;
 }
 
-.article-title{
-     font-family: 'Raleway', sans-serif;
+.article-title {
+    font-family: 'Raleway', sans-serif;
     font-size: 2.0em;
     font-weight: 800;
     color: #3c1f68;
 }
 
-h4{
-    
+h4 {
+
     font-size: 1.6em;
     font-family: 'Raleway', sans-serif;
     font-weight: 800;
 }
 
-.date{
-    
+.date {
+
     font-size: .8em;
     letter-spacing: 1px;
-    
+
 }
 
-.readmore{
-    
+.readmore {
+
     color: #a19ba6;
     font-size: .9em;
     margin-bottom: 40px;
-    
+
 }
 
 footer {
-    
+
     background-image: url(http://206.189.45.97/~mesh22/sub1/wp-content/uploads/2021/03/footer-bg.png);
     background-size: cover;
     width: 100%;
     background-position: center;
 }
 
-.footer-content{
-    
+.footer-content {
+
     margin-top: 30px;
     margin-bottom: 30px;
     color: white;
-    
+
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
