@@ -1,21 +1,21 @@
-@media only screen and (max-width:999px){
-    
-    .article-cent{
-        text-align: center; 
+@media only screen and (max-width:999px) {
+
+    .article-cent {
+        text-align: center;
     }
-    
 
-.article-cent img{
-    
-    margin: auto;
-}
-     
+
+    .article-cent img {
+
+        margin: auto;
+    }
+
 }
 
-@media only screen and (max-width:800px){
-    
-    .herobg h1{
-        
+@media only screen and (max-width:800px) {
+
+    .herobg h1 {
+
         float: none;
         width: 100%;
         font-size: 5.1em;
@@ -23,33 +23,31 @@
         text-align: center;
         padding-bottom: 10%;
     }
-    
-    .herobg{
-        
+
+    .herobg {
+
         background-position: -100px center;
-        
-    }   
-    
+
+    }
+
 }
 
 
 
-@media only screen and (max-width:500px){
-    
-    
+@media only screen and (max-width:500px) {
+
+
     .about-text {
-        
+
         margin-left: 0px;
         margin-right: 0px;
         font-size: 1.1em;
-        
+
     }
-    
+
     .particle {
-        
+
         text-align: center;
         margin-right: 0px;
     }
 }
-
-
