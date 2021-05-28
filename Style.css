@@ -19,6 +19,14 @@ body{
     font-size: 0.875em;
 }
 
+.navbar-toggle .icon-bar {
+    display: block;
+    width: 22px;
+    height: 2px;
+    border-radius: 1px;
+    background-color: white;
+}
+
 a{
     color: #a99c9c;
 }
@@ -45,7 +53,7 @@ a:hover{
 
 .herobg {
     
-    background: url(header-bg.png);
+    background: url(http://206.189.45.97/~mesh22/sub1/wp-content/uploads/2021/03/header-bg-1.png);
     background-size: cover;
     
 }
@@ -149,7 +157,7 @@ h4{
 
 footer {
     
-    background-image: url(images/footer-bg.png);
+    background-image: url(http://206.189.45.97/~mesh22/sub1/wp-content/uploads/2021/03/footer-bg.png);
     background-size: cover;
     width: 100%;
     background-position: center;
