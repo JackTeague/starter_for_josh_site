@@ -173,3 +173,13 @@ footer {
     color: white;
 
 }
+
+
+.small-herobg {
+
+    width: 100%;
+    background: url(http://206.189.45.97/~mesh22/sub1/wp-content/uploads/2021/05/small-header-bg.png);
+    background-size: cover;
+    height: 40vh;
+
+}
